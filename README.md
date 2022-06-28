@@ -12,3 +12,5 @@
 ## Steps:
 1. Design database EER in MySQL
 2. Convert raw data of google doc to excel sheet
+3. Clean and transform data to be inserted into database
+4. Create website
