@@ -7,8 +7,8 @@ sessions_blueprint = Blueprint('sessions',
                                 __name__,
                                 template_folder='templates/sessions')
 
-# @sessions_blueprint.route('/new_session',methods=['GET','POST'])
-# def new_session():
+@sessions_blueprint.route('/new_session_record',methods=['GET','POST'])
+def new_session():
 
 
 # @sessions_blueprint.route('/edit_session',methods=['GET','POST'])
