@@ -1,4 +1,4 @@
-# Project Overview - [Full Report](https://karlnagy.github.io/bikeshare/)
+# Project Overview
 
 ## Problem:
 * [Google Doc of workout records](https://docs.google.com/document/d/1DT-zepXs5SBePTK3W15RSQ16GyuRmE6M_UZ2SNUMyVk/edit?usp=sharing) kept returning error messages and would not function on mobile
@@ -12,3 +12,4 @@
 ## Steps:
 1. Design database EER in MySQL
 2. Convert raw data of google doc to excel sheet
+3. Analyse data in excel
